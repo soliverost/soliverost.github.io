@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Silvia Oliveros and this is my blog which describes the current development of my project for the Insight Data Engineering Fellowship in Silicon Valley.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can find more about myself by visiting my personal webpage: www.silviaoliveros.com.
+And you can find more about the Insight Data Engineering Program here: link.
